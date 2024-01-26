@@ -53,6 +53,6 @@ spring:
         login-username: druid
         login-password: druid
         # IP白名单
-        allow: 127.0.0.1
+        allow: 0.0.0.0
         # IP黑名单（共同存在时，deny优先于allow）
         deny:

@@ -12,8 +12,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>wu-druid-demo</artifactId>
-    <description>druid-使用demo</description>
+    <artifactId>wu-lazy-druid-demo</artifactId>
+    <description>lazy orm整合druid-监控mysql demo</description>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
