@@ -5,14 +5,11 @@ spring:
   datasource:
     username: root
     password: wujiawei
-    url: jdbc:mysql://127.0.0.1:3306/wu_lazy_druid_demo?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://127.0.0.1:3306/wu_lazy_druid_simple?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
   lazy:
     printf-query: true
-    enable-reverse-engineering: true
     enable-auto-schema: true
-    reverse-engineering:
-      orm-architecture: lazy
-      web-architecture: ddd_architecture
+
 
 server:
   port: 1002
