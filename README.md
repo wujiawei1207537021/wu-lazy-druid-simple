@@ -19,7 +19,7 @@
     配置数据库连接地址、账号、密码
     启动项目
 ### 地址
-    swagger：
-    driud地址：
+    swagger：http://localhost:1002/swagger-ui/index.html
+    driud地址：http://localhost:1002/druid/login.html   账号/密码 druid/druid
 
 [Druid登陆账号错误问题](DruidLoginError.md)

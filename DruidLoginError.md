@@ -61,7 +61,7 @@
 通过构造器初始化LazyResourceServlet
 
 3. DruidStatViewServletLoginByBodyConfiguration 初始化 LazyStatViewServlet
-![img.png](src/doc/DruidStatViewServletLoginByBodyConfiguration.png)
+![DruidStatViewServletLoginByBodyConfiguration.png](src/doc/DruidStatViewServletLoginByBodyConfiguration.png)
 
 #### 登陆效果
 ![loginSuccess.png](src/doc/loginSuccess.png)
