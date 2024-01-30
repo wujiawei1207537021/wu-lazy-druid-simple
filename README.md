@@ -30,9 +30,9 @@
 
 #### JDK 17
 
-#### Lazy ORM框架地址{ https://gitee.com/wujiawei1207537021/wu-framework-parent }
+#### [Lazy ORM框架地址](https://gitee.com/wujiawei1207537021/wu-framework-parent)
 
-### 当前项目案例地址 (https://gitee.com/wujiawei1207537021/wu-lazy-druid-simple)
+### [当前项目案例地址](https://gitee.com/wujiawei1207537021/wu-lazy-druid-simple)
 
 
 | 框架                          | 版本                   | 描述           |
